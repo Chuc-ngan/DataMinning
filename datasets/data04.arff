@@ -1,0 +1,25 @@
+@relation data04-weka.filters.unsupervised.attribute.Discretize-B3-M-1.0-R4-precision6-weka.filters.unsupervised.attribute.Discretize-B3-M-1.0-R4-precision6-weka.filters.unsupervised.attribute.NumericToNominal-R3-weka.filters.unsupervised.attribute.NumericToBinary-Rfirst-last-weka.filters.unsupervised.attribute.NumericToBinary-Rfirst-last-weka.filters.unsupervised.attribute.NominalToBinary-Rfirst-last
+
+@attribute Mien=Nam numeric
+@attribute Mien=Bac numeric
+@attribute Mien=Trung numeric
+@attribute Gioi_tinh=Nu numeric
+@attribute Khu_vuc=1 numeric
+@attribute Khu_vuc=2 numeric
+@attribute Khu_vuc=3 numeric
+@attribute 'Diem=\'(-inf-4.666667]\'' numeric
+@attribute 'Diem=\'(4.666667-6.333333]\'' numeric
+@attribute 'Diem=\'(6.333333-inf)\'' numeric
+
+@data
+1,0,0,0,1,0,0,0,1,0
+0,1,0,0,0,1,0,0,0,1
+1,0,0,1,1,0,0,0,1,0
+0,0,1,0,0,0,1,0,1,0
+1,0,0,1,0,0,1,0,0,1
+0,0,1,1,0,0,1,0,0,1
+0,1,0,0,1,0,0,0,1,0
+1,0,0,1,0,1,0,1,0,0
+0,0,1,0,1,0,0,0,1,0
+0,1,0,1,0,0,1,1,0,0
+1,0,0,1,0,1,0,0,0,1

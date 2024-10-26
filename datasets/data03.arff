@@ -1,0 +1,22 @@
+@relation data03-weka.filters.unsupervised.attribute.InterquartileRange-Rfirst-last-O1.5-E6.0-P
+
+@attribute 'Nhiên viên' {A,B,C,D,E,F,G,H,I,J,K}
+@attribute Tu?i numeric
+@attribute 'L??ng (Tri?u ??ng)' numeric
+@attribute Tu?i_Outlier {no,yes}
+@attribute Tu?i_ExtremeValue {no,yes}
+@attribute 'L??ng (Tri?u ??ng)_Outlier' {no,yes}
+@attribute 'L??ng (Tri?u ??ng)_ExtremeValue' {no,yes}
+
+@data
+A,25,8,no,no,no,no
+C,19,12,no,no,no,no
+D,21,16,no,no,no,no
+E,40,10,no,no,no,no
+F,150,11,no,yes,no,no
+H,30,15,no,no,no,no
+I,25,14,no,no,no,no
+J,55,12,no,no,no,no
+K,40,20,no,no,no,no
+B,30,100,no,no,no,yes
+G,30,280,no,no,no,yes

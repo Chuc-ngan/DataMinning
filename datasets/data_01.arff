@@ -1,0 +1,17 @@
+@relation data_01-weka.filters.unsupervised.attribute.Discretize-B3-M-1.0-Rfirst-last-precision6
+
+@attribute 'Nhiên viên' {A,B,C,D,E,F,G,H,I,J,K}
+@attribute Tu?i {'\'(-inf-32.666667]\'','\'(32.666667-46.333333]\'','\'(46.333333-inf)\''}
+
+@data
+A,'\'(-inf-32.666667]\''
+B,'\'(-inf-32.666667]\''
+C,'\'(-inf-32.666667]\''
+D,'\'(-inf-32.666667]\''
+E,'\'(32.666667-46.333333]\''
+F,'\'(46.333333-inf)\''
+G,'\'(-inf-32.666667]\''
+H,'\'(-inf-32.666667]\''
+I,'\'(-inf-32.666667]\''
+J,'\'(46.333333-inf)\''
+K,'\'(32.666667-46.333333]\''
